@@ -1,5 +1,5 @@
 image_extension: .jpeg
-n_class: 3
+n_class: 2
 root_dir: data/bkai-igh-neopolyp/train
 image: image
 target: target
